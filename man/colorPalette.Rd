@@ -22,11 +22,47 @@
 \alias{PairedColor12Steps}
 \alias{SteppedSequential5Steps}
 \title{Palette for color blindness}
-\format{An object of class \code{character} of length 15.}
+\format{
+An object of class \code{character} of length 15.
+
+An object of class \code{character} of length 16.
+
+An object of class \code{character} of length 12.
+
+An object of class \code{character} of length 18.
+
+An object of class \code{character} of length 14.
+
+An object of class \code{character} of length 12.
+
+An object of class \code{character} of length 18.
+
+An object of class \code{character} of length 14.
+
+An object of class \code{character} of length 10.
+
+An object of class \code{character} of length 12.
+
+An object of class \code{character} of length 8.
+
+An object of class \code{character} of length 8.
+
+An object of class \code{character} of length 10.
+
+An object of class \code{character} of length 12.
+
+An object of class \code{character} of length 11.
+
+An object of class \code{character} of length 7.
+
+An object of class \code{character} of length 10.
+
+An object of class \code{character} of length 12.
+
+An object of class \code{character} of length 25.
+}
 \source{
 <http://mkweb.bcgsc.ca/biovis2012/>
-
-<http://geog.uoregon.edu/datagraphics/color_scales.htm>
 }
 \usage{
 paletteMartin
